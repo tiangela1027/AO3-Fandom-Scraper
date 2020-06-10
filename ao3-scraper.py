@@ -3,9 +3,7 @@
 from selenium import webdriver
 from selenium.webdriver.firefox.options import Options  
 from bs4 import BeautifulSoup
-from sys import argv
 from itertools import islice
-from datetime import datetime
 from tkinter import *
 from tkinter.scrolledtext import ScrolledText
 
