@@ -6,7 +6,9 @@ A small desktop GUI app built with Python for scraping the fandoms pages on [Arc
 
 Within a genre (ex. [Anime & Manga](https://archiveofourown.org/media/Anime%20*a*%20Manga/fandoms)) and given a lower bound, it collates a list of the fandoms for which the number of works within the fandom exceeds the lower bound.
 
-This app was created for personal use, to help discover new fandoms based on popularity (as prescribed by the number of works written for them). The results themselves are updated as the site is updated.
+This app was created for personal use, to help discover new fandoms based on popularity (as prescribed by the number of works written for them).
+<br /><strong>It is not associated with the Archive of Our Own project itself.</strong>
+<br />The results themselves are updated as the site is updated.
 
 <br /><br />
 
